@@ -2,13 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2016-10-30T04:40:52+00:00</lastmod>
+    <loc>http://www.glassbeans.com/</loc>
+    <lastmod>2016-11-09T16:20:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/test-post/</loc>
-    <lastmod>2016-10-30T04:40:52+00:00</lastmod>
+    <loc>http://www.glassbeans.com/blog/110916/</loc>
+    <lastmod>2016-11-09T16:20:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.glassbeans.com/about/</loc>
+    <lastmod>2016-11-09T16:12:00+00:00</lastmod>
   </url>
   
 </urlset>
