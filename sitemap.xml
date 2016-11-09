@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2016-10-30T04:40:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/test-post/</loc>
+    <lastmod>2016-10-30T04:40:52+00:00</lastmod>
+  </url>
+  
+</urlset>
