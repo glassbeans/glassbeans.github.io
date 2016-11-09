@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Glassbeans - Personal views on how machine learning and AI will help us see through business</title>
-    <link>http://www.glassbeans.com/index.xml</link>
+    <link>http://www.glassbeans.com/categories/consulting/index.xml</link>
     <description>Recent content on Glassbeans - Personal views on how machine learning and AI will help us see through business</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.glassbeans.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.glassbeans.com/categories/consulting/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Why Centaurs will dominate the future</title>
@@ -56,35 +55,6 @@
 &lt;p&gt;When chess moved onto a computer, they changed how the game was played. When Kasparov founded Centaur chess, he changed the game. Strategies from traditional chess could in some cases be thrown out the window. And as Carmton and Stephen demonstrated in their 2005 championship, the best players are not necessarily going to be the ones that played the old game the best.&lt;/p&gt;
 
 &lt;p&gt;We are at the forefront of a significant shift in our industry and profession. And this time it’s not just going to be a change in &lt;strong&gt;how&lt;/strong&gt; the game is played, but a fundamental shift in defining what the &lt;strong&gt;game&lt;/strong&gt; is itself. Going forward, I&amp;rsquo;m hoping to expand on these thoughts, as well as a way to share ideas, connect with new people, and hopefully push forward the industry as we collectively figure out what the new game will be.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About Eric Au</title>
-      <link>http://www.glassbeans.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.glassbeans.com/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.glassbeans.com/img/main/profile.jpg&#34; width=&#34;132&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I have worked in a client-facing role in the professional services industry for over ten years. Working at a professional services firm has provided me with some of the broadest work experiences available, starting with assurance/audit but quickly moving to leading teams in a wide range of consulting areas including valuations, risk management, and complex accounting litigation. During this time, the focus of my work was largely in forensic accounting and financial frauds. I currently lead research and culture in the area of data analytics for the Canadian arm of an international provider of accounting and other professional services.&lt;/p&gt;
-
-&lt;p&gt;My formal education includes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bachelor&amp;rsquo;s degree in mathematics&lt;/li&gt;
-&lt;li&gt;Master&amp;rsquo;s degree in accounting&lt;/li&gt;
-&lt;li&gt;Designation as a Canadian Chartered Accountant&lt;/li&gt;
-&lt;li&gt;Designation as a Canadian Chartered Professional Accountant&lt;/li&gt;
-&lt;li&gt;Designation as a Chartered Business Valuator&lt;/li&gt;
-&lt;li&gt;Designation as a Certified Internal Auditor&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I have always been one of the most data-driven professional in practice. As such, nothing has excited me more than the business community’s willingness to embrace data and the more effective utilization of data to provide insights. In particular, the increased attention to data science and machine learning have allowed me to return to my roots, blending my domain knowledge in a broad range of consulting areas with my academic background in mathematics.&lt;/p&gt;
-
-&lt;p&gt;There is tremendous potential for the professional services industry and the accounting profession to take advantage of these advances. It will fundamentally change the way we work, and allow us to find new insights for our clients that were never before possible.&lt;/p&gt;
-
-&lt;p&gt;If you have accounting or financial data which you would like to explore, or if you are interested in working together to advance this field, I would love to hear from you.&lt;/p&gt;
 </description>
     </item>
     
