@@ -6,13 +6,13 @@
     <description>Recent content on Glassbeans - Personal views on how machine learning and AI will help us see through business</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Nov 2016 19:38:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Nov 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.glassbeans.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Using Google&#39;s Pictionary Technology to Find Risky Customers</title>
       <link>http://www.glassbeans.com/blog/pictionary/</link>
-      <pubDate>Fri, 18 Nov 2016 19:38:27 +0000</pubDate>
+      <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.glassbeans.com/blog/pictionary/</guid>
       <description>&lt;p&gt;Does anyone still play Pictionary? The guessing game where someone on your team draws a picture, and you have to guess what it is. I was an okay Pictionary player. I think I was a better ‘guesser’ than a ‘drawer.’ I could draw inanimate objects well enough, but if I was ever asked to draw something more complicated like a cat or giraffe, things get ugly. Anyone remember that old episode of The Simpsons where Millhouse’s dad tried drawing “dignity”?&lt;/p&gt;
@@ -45,7 +45,7 @@
 
 &lt;p&gt;Coming back to risk, if we can feed a model enough “drawings” of risky customers, over time we can get a very accurate prediction of which new customers are considered high-risk. The implication of this is we can get a more precise assessment of customer risk, thereby lowering the risk for the overall organization. More than that, we will also be able to reduce the time needed to scrutinize customers classified as high-risk that shouldn’t have been classified that way in the first place.&lt;/p&gt;
 
-&lt;p&gt;There are still hurdles that we will need to overcome, including regulatory restrictions and the transparency of using advanced algorithms. However, as the utilization of these technologies becomes increasingly widespread, I believe we will begin to see more and more organizations adopt these methods as the preferred risk assessment approach.&lt;/p&gt;
+&lt;p&gt;There are still hurdles that we will need to overcome, including regulatory restrictions and the transparency of using advanced algorithms. However, as the utilization of these technologies becomes increasingly widespread, I believe we will begin to see more and more organizations adopt these methods as their preferred risk assessment approach.&lt;/p&gt;
 </description>
     </item>
     
